@@ -24,7 +24,7 @@ Utilizar o padrão MVC;<br>
 
 <h1>👕👖Loja de Roupa</h1><br>
 
-#alguma foto talvez
+![image](https://res.cloudinary.com/dte7upwcr/image/upload/v1642127986/blog/blog2/loja-de-roupas-online/loja-de-roupas-online2.jpg)
 
 <h1>🗺️Mapeamento das Entidades</h1>
 
